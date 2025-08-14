@@ -7,8 +7,8 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Xzdes",
+  "license": "MIT",
   "dependencies": {
     "cheerio": "^1.1.2",
     "puppeteer": "^24.16.2"
