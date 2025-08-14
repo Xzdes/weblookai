@@ -1,0 +1,16 @@
+{
+  "name": "weblookai",
+  "version": "1.0.0",
+  "description": "An AI that knows how to find answers instead of knowing them. The focus is on the algorithm, not on the model size.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "puppeteer": "^24.16.2"
+  }
+}
