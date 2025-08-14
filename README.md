@@ -82,3 +82,19 @@
     npm start -- Explain the difference between ACID and BASE database models
     ```
     *Наблюдайте в консоли, как `WeblookAI` отправляется в свое автономное путешествие за знаниями!*
+
+## 📜 Важное Замечание об Использовании / Important Usage Notice
+
+Механизм веб-скрапинга, реализованный в этом проекте, является мощным инструментом, созданным для демонстрации алгоритмических возможностей автономных агентов.
+
+### ⚠️ Только в образовательных целях! / For Educational Purposes Only!
+
+*   🇬🇧 **English:** This project is intended for **educational purposes only**. The web scraping agent is designed to demonstrate how an AI can autonomously gather information. Be respectful of the websites you are targeting. Do not use this tool for any malicious activities, excessive downloading, or in any way that violates the terms of service of the websites being accessed. The user is solely responsible for তাদের actions.
+
+*   🇷🇺 **Русский:** Этот проект предназначен **исключительно в образовательных целях**. Веб-скрапинг агент создан для демонстрации того, как ИИ может автономно собирать информацию. Пожалуйста, относитесь с уважением к сайтам, к которым вы обращаетесь. Не используйте этот инструмент для вредоносной деятельности, избыточного скачивания данных или любым другим способом, нарушающим условия использования посещаемых сайтов. Пользователь несет полную ответственность за свои действия.
+
+*   🇪🇸 **Español:** Este proyecto está destinado **únicamente a fines educativos**. El agente de web scraping está diseñado para demostrar cómo una IA puede recopilar información de forma autónoma. Sea respetuoso con los sitios web a los que accede. No utilice esta herramienta para actividades maliciosas, descargas excesivas o de cualquier forma que viole los términos de servicio de los sitios web visitados. El usuario es el único responsable de sus acciones.
+
+*   🇨🇳 **中文 (简体):** 本项目**仅用于教育目的**。网络爬虫代理旨在演示人工智能如何自主收集信息。请尊重您访问的网站。请勿将此工具用于任何恶意活动、过度下载或任何违反所访问网站服务条款的行为。用户应对自己的行为负全部责任。
+
+*   🇩🇪 **Deutsch:** Dieses Projekt ist **ausschließlich für Bildungszwecke** bestimmt. Der Web-Scraping-Agent dient der Demonstration, wie eine KI autonom Informationen sammeln kann. Bitte respektieren Sie die Websites, auf die Sie zugreifen. Verwenden Sie dieses Tool nicht für böswillige Aktivitäten, übermäßiges Herunterladen oder in einer Weise, die die Nutzungsbedingungen der besuchten Websites verletzt. Der Benutzer ist allein für seine Handlungen verantwortlich.
